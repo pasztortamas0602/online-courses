@@ -6,8 +6,8 @@ _I will also come up with my own projects soon..._
 
 ## Following technologies are used
 
-- [ ] HTML
-- [ ] CSS
+- [x] HTML
+- [x] CSS
 - [ ] JavaScript
 - [ ] Node.js
 - [ ] Angular
@@ -16,5 +16,6 @@ _I will also come up with my own projects soon..._
 
 ## Overview about the projects
 
-| Course type | Course name | Instructor | Project |
-| ----------- | ----------- | ---------- | ------- |
+| Course type      | Course name                                            | Instructor        | Project  |
+| ---------------- | ------------------------------------------------------ | ----------------- | -------- |
+| 01. HTML and CSS | Build Responsive Real-World Websites with HTML and CSS | Jonas Schmedtmann | Omnifood |
